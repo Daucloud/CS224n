@@ -1,0 +1,12 @@
+# Fdb version 4
+["pdflatex"] 1744397043.70693 "dep_parses.tex" "dep_parses.pdf" "dep_parses" 1744397148.27601 2
+  "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1740140832 8221423 c80872240879d0cf503e46ea1841e14a ""
+  "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
+  "dep_parses.aux" 1744397043.70659 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "dep_parses.tex" 1736861482 3041 ceeb222f2d16df528c23e109e4f18834 ""
+  (generated)
+  "dep_parses.aux"
+  "dep_parses.log"
+  "dep_parses.pdf"
+  (rewritten before read)
